@@ -41,7 +41,4 @@ git clone https://github.com/21mebrat/C-sharp-scientific-calculator.git
 
 ## Author
 **Mebrat Matebie**  
-Developer, Application Development Unit, ICT Directorate.  
-Feel free to reach out for collaborations or suggestions!
-```
 
