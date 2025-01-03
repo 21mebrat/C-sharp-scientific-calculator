@@ -1,0 +1,17 @@
+S:\Form App\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0-windows\Scientific Calculator.exe
+S:\Form App\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0-windows\Scientific Calculator.deps.json
+S:\Form App\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0-windows\Scientific Calculator.runtimeconfig.json
+S:\Form App\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0-windows\Scientific Calculator.dll
+S:\Form App\Scientific Calculator\Scientific Calculator\bin\Debug\net6.0-windows\Scientific Calculator.pdb
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.csproj.AssemblyReference.cache
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific_Calculator.Calculator.resources
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.csproj.GenerateResource.cache
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.GeneratedMSBuildEditorConfig.editorconfig
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.AssemblyInfoInputs.cache
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.AssemblyInfo.cs
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.csproj.CoreCompileInputs.cache
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.dll
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\refint\Scientific Calculator.dll
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.pdb
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\Scientific Calculator.genruntimeconfig.cache
+S:\Form App\Scientific Calculator\Scientific Calculator\obj\Debug\net6.0-windows\ref\Scientific Calculator.dll
